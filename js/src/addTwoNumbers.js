@@ -8,4 +8,5 @@ var x = +prompt("Enter a number");
 var y = +prompt("Enter another number");
 var z = x + y;
 alert("The sum is " + z);
+// Print in the console.
 console.log("The sum is " + z);
